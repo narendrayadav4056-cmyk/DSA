@@ -6,10 +6,12 @@
 | ------- | ------- |
 | [0027-remove-element](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -19,4 +21,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0027-remove-element/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
