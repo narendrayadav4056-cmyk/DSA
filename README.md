@@ -77,4 +77,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0013-roman-to-integer/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
