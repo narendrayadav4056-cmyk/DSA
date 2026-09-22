@@ -51,6 +51,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -68,4 +69,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0013-roman-to-integer/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
