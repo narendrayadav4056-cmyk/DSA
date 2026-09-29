@@ -38,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@
 | [0013-roman-to-integer](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0242-valid-anagram](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0242-valid-anagram/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0242-valid-anagram](https://github.com/narendrayadav4056-cmyk/DSA/tree/main/0242-valid-anagram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
